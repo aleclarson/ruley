@@ -1,0 +1,7 @@
+{
+  "name": "ruley",
+  "version": "0.0.1",
+  "dependencies": {
+    "short-id": "aleclarson/short-id#1.0.0"
+  }
+}
